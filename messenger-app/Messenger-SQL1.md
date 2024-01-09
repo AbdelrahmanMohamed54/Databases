@@ -77,6 +77,8 @@ Add foreign key constraints to your tables and then insert some sample data.
    ADD FOREIGN KEY (chatID) REFERENCES chat(cid);
    ```
 
+---
+
 ### Inserting Data
 
 1. **Table contact**
